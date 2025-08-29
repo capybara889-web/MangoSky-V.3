@@ -3,7 +3,7 @@
 ✨ **MangoSky** is a colorful and lightweight CLI tool to apply **Custom Skyboxes** on Roblox.  
 Made with ❤️ by **MangoV2**.  
 
-![Preview](https://imgur.com/8bnOn1e) <!-- Pon aquí tu captura -->
+![Preview](https://i.imgur.com/8bnOn1e.png[/img]) <!-- Pon aquí tu captura -->
 
 ---
 
